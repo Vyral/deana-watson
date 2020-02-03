@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Advantages of Preparing Your Home For Sale Sooner Than Later
-date: 2020-02-03 22:13:49
+date: 2020-02-03 22:13:00
 tags:
 excerpt: >-
   Today I’m sharing three simple reasons why you should act now to get home
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: Tvix5nFzpKE
 ---
 
 {% include youtube.html %}
