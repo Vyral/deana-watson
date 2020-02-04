@@ -7,7 +7,9 @@ excerpt: >-
   Today I’m sharing three simple reasons why you should act now to get home
   ready for the 2020 market.
 enclosure:
-pullquote:
+pullquote: >-
+  Market conditions are markedly different now than when you purchased your
+  home.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -17,7 +19,7 @@ youtube_code: Tvix5nFzpKE
 
 {% include youtube.html %}
 
-Right around this time of year is when many in the armed services are notified of their Permanent Change of Station (PSC) moves. Sometimes, people wait to contact us until a month before their move, while others wait all the way up until they’re practically on their way out of town.&nbsp;
+Right around this time of year is when many in the armed services are notified of their Permanent Change of Station (PCS) moves. Sometimes, people wait to contact us until a month before their move, while others wait all the way up until they’re practically on their way out of town.&nbsp;
 
 Today I’m offering some reasons why you should reach out to us sooner than later:&nbsp;
 
@@ -29,7 +31,7 @@ If you let us come to your house now and give you an evaluation about what we th
 
 {% include pullquote.html %}
 
-Not only will you likely avoid having to cover a buyer’s closing costs, you may also get to enjoy a multiple-offer situation.&nbsp;
+Not only will you likely avoid having to cover a buyer’s closing costs,&nbsp; butyou may also get to enjoy a multiple-offer situation.&nbsp;
 
 **3\. The beauty of our spring can be a benefit.** The prettiest time of year in our area is usually around March or April. If you’re moving in June, you’d normally wait until May to call, but think about the azalea bushes and dogwood trees that are about to bloom soon. Everything that would be a photographer's dream for a front yard photo is blooming in as soon as a month and a half.&nbsp;
 
