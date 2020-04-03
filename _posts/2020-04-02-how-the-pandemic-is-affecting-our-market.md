@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How the Pandemic Is Affecting Our Market
-date: 2020-04-02 17:31:33
+date: 2020-04-02 17:31:00
 tags:
 excerpt: What is COVID-19 and the PCS ban doing to our market? Here’s a quick update.
 enclosure:
@@ -28,7 +28,7 @@ In short: We’re still closing transactions at a faster rate than people are li
 
 {% include pullquote.html %}
 
-We as **agents are taking extra precautions to make sure that your family stays safe and healthy.** We’ll also provide you with cleaning supplies to clean your home before and after people come in to view it. Further, we’ve been leveraging video tours for everyone’s home, as well as Matterport tours which allow people to walk through your house without actually having to step foot inside it.
+We as **agents are taking extra precautions to make sure that your family stays safe and healthy.** We’ll also provide you with cleaning supplies to clean your home before and after people come in to view it. Further, we’ve been leveraging video tours for everyone’s home, as well as Matterport tours which allow people to virtually walk through your house without actually having to step foot inside it.
 
 So, to concerned homeowners: The sky is not falling. There are still plenty of great things happening in our market, and **if you need to sell your home, now is the best time to do it.** We’ve been able to sell some homes for $20,000 or $30,000 over their purchase prices.
 
