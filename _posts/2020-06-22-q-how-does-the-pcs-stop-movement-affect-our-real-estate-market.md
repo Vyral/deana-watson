@@ -23,9 +23,9 @@ As of June 2020, we’re actually not seeing any change in our real estate marke
 
 So how has the PCS stop order movement affected the market? Initially, it caused a total freak out, but so far, it honestly hasn’t changed things much in practice; **we’re almost afraid that when the PCS moves do open back up, we won’t have enough houses on the market to sell to the incoming buyers.&nbsp;**
 
-{% include pullquote.html %}
+{% include pullquote.html %}Our level of inventory is already at an all-time low, and for homeowners, here’s
 
-Our level of inventory is already at an all-time low, and for homeowners, here’s what that means: If you want to put your home up for sale for any reason, now’s the time to do so. I’m not trying to hype up anything—as a real estate professional, I always want you to do what’s best for your situation. That being said, it’s my job to let you know that our market is craving homes, and there are plenty of buyers who need them; it’s hard to think of a time when sellers had a better advantage than they do right now.&nbsp;
+what that means: If you want to put your home up for sale for any reason, now’s the time to do so. I’m not trying to hype up anything—as a real estate professional, I always want you to do what’s best for your situation. That being said, it’s my job to let you know that our market is craving homes, and there are plenty of buyers who need them; it’s hard to think of a time when sellers had a better advantage than they do right now.&nbsp;
 
 Despite the PCS stop movement, **we actually have more homes being sold now than we’ve had in the last five to 10 years,** and prices are as high as they’ve been since I got into real estate nearly a decade ago.&nbsp;
 
