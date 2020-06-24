@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: recruiting
 title: 'Q: How Does the PCS Stop Movement Affect Our Real Estate Market?'
 date: 2020-06-22 21:06:00
 tags:
@@ -27,6 +27,4 @@ So how has the PCS stop order movement affected the market? Initially, it caused
 
 what that means: If you want to put your home up for sale for any reason, now’s the time to do so. I’m not trying to hype up anything—as a real estate professional, I always want you to do what’s best for your situation. That being said, it’s my job to let you know that our market is craving homes, and there are plenty of buyers who need them; it’s hard to think of a time when sellers had a better advantage than they do right now.&nbsp;
 
-Despite the PCS stop movement, **we actually have more homes being sold now than we’ve had in the last five to 10 years,** and prices are as high as they’ve been since I got into real estate nearly a decade ago.&nbsp;
-
-The vital signs of the military market here vary. If you have questions about the PCS stop movement order, buying or selling homes, or recent market data, please reach out by phone or email anytime. I’m here to be your resource, and I look forward to hearing from you.&nbsp;
+Despite the PCS stop movement, **we actually have more homes being sold now than we’ve had in the last five to 10 years,** and prices are as high as they’ve been since I got into real estate nearly a decade ago. &nbsp;The vital signs of the military market here vary. If you have questions about the PCS stop movement order, buying or selling homes, or recent market data, please reach out by phone or email anytime. I’m here to be your resource, and I look forward to hearing from you.&nbsp;
