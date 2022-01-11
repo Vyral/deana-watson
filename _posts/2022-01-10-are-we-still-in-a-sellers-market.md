@@ -3,7 +3,7 @@ layout: post
 title: Are We Still in a Seller’s Market?
 date: 2022-01-10 00:00:00
 tags:
-excerpt:
+excerpt: Are We Still in a Seller’s Market?
 enclosure:
 pullquote:
 enclosure_type: video/mp4
