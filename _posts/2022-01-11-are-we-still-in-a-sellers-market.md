@@ -14,6 +14,8 @@ youtube_code: OHryuq3vA90
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 I hope you are having a fantastic start to the year. I wanted to take a few minutes and update you on what’s happening in the Fort Bragg real estate market so that you can make educated decisions on your real estate goals this year.
 
 {% include pullquote.html %}
