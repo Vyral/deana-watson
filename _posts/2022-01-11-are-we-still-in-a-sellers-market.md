@@ -3,8 +3,11 @@ layout: post
 title: Are We Still in a Seller’s Market?
 date: 2022-01-11 00:00:00
 tags:
+  - Market Update
+  - Real Estate
 excerpt: We are still in a strong seller’s market as we start the year.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Deana+Watson/Videos/2022/Are+We+Still+in+a+Seller%E2%80%99s+Market_.mp4
 pullquote: If you have a home to sell, you’re coming out on top.
 enclosure_type: video/mp4
 enclosure_time:
