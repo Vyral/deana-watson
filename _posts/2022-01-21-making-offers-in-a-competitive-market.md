@@ -24,7 +24,9 @@ It’s a crazy time for the real estate industry. Being a buyer is harder than e
 
 0:00 — Introducing today’s topic
 
-0:35 — Put up a good amount of earnest money (or due diligence money)2:30 — Go above asking price
+0:35 — Put up a good amount of earnest money (or due diligence money)
+
+2:30 — Go above asking price
 
 3:18 — Appraisal gap contingencies
 
@@ -38,4 +40,4 @@ It’s a crazy time for the real estate industry. Being a buyer is harder than e
 
 6:18 — Wrapping up
 
-If you want to know what your home is worth, please reach out to us. We are more than happy to provide a no-obligation home valuation. If you have questions about these tips or anything else related to real estate, feel free to call or email me. I would love to hear from you.
+If you have questions about these tips or anything else related to real estate, feel free to call or email me. I would love to hear from you.
