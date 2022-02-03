@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Here’s a taste of what it takes to win as a buyer in our market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Deana+Watson/Videos/2022/Making+Offers+in+a+Competitive+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
