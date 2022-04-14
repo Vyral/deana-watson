@@ -3,6 +3,8 @@ layout: post
 title: What’s Going On in Our Market?
 date: 2022-04-12 05:00:00
 tags:
+  - Home Buyer Tips
+  - Real Estate
 excerpt: Our market is still very strong but inventory remains a problem.
 enclosure:
 pullquote:
