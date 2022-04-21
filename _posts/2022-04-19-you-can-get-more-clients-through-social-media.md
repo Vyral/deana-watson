@@ -15,8 +15,6 @@ youtube_code: rI-9E6jg7Gc
 ---
 {% include youtube.html %}
 
-{% include pullquote.html %}
-
 I wanted to give you some free content from my upcoming course, Build Your Social Media Empire, which is launching this month. Maybe you do a great job of posting online, but if you want to build a strong social media-based business, there are five areas you have to have a strategy for.
 
 **You can watch the full video above or skip to each section using the timestamps provided:**
