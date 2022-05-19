@@ -9,8 +9,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code: EOPn6DXeycc
+youtube_alternate_image: /uploads/deana-watson-screenshot-template-05-17-yt.jpeg
+youtube_code: siPWYia8iL8
 ---
 {% include youtube.html %}
 
