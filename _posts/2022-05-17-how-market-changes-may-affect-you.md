@@ -4,7 +4,8 @@ title: How Market Changes May Affect You
 date: 2022-05-17 19:46:40
 tags:
 excerpt: Answering a few questions about what’s going on in our market these days.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Deana+Watson/Videos/2022/How+Market+Changes+May+Affect+You.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
